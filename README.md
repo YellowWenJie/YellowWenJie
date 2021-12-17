@@ -1,8 +1,11 @@
 Hi there, I’m @YellowWenJie 👋
 
 
-<div align="center">
+<div>
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=YellowWenJie" />
+</div>
+<div align="center">	
+![Metrics](https://metrics.lecoq.io/YellowWenJie?template=classic&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 </div>
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=YellowWenJie&show_icons=true&theme=radical" />
@@ -73,6 +76,12 @@ Hi there, I’m @YellowWenJie 👋
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=YellowWenJie&theme=xcode" />
 </div>
+<div align="center">
+	<br>
+Visitor count<br>
+	<img src="https://profile-counter.glitch.me/YellowWenJie/count.svg" />
+</div>
+  
 
 - 👋 Hi, I’m @YellowWenJie
 - 👀 I’m interested in ...
