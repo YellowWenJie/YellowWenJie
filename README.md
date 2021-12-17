@@ -1,5 +1,8 @@
 Hi there, I’m @YellowWenJie 👋
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=@YellowWenJie)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @YellowWenJie
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
