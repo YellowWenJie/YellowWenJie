@@ -2,7 +2,7 @@ Hi there, I’m @YellowWenJie 👋
 
 
 <div align="center">	
-	<img width="500" src="https://metrics.lecoq.io/YellowWenJie?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
+	<img width="500" src="https://metrics.lecoq.io/YellowWenJie?template=classic&lines=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" alt="Github Metrics"/>
 	</br>
 	</br>
 </div>
