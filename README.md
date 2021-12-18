@@ -8,7 +8,6 @@ Hi there, I’m @YellowWenJie 👋
 </div>
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=YellowWenJie&show_icons=true&theme=radical" /></br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellowWenJie&layout=compact&theme=radical&langs_count=10" />
 </div>
 <div align="center">    
 
