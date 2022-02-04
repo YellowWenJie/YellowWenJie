@@ -78,7 +78,6 @@ Visitor count<br>
 	<img src="https://profile-counter.glitch.me/YellowWenJie/count.svg" />
 </div>
 <br>
-<br>
 <div align="center">
 	<img width="100%" src = "https://user-images.githubusercontent.com/89182679/152541819-0ec68ff8-b931-490b-aea4-7018b239c829.png" />
 </div>
