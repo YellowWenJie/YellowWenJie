@@ -79,7 +79,7 @@ Visitor count<br>
 </div>
 
 <div align="center">
-	<img src = "https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png" />
+	<img width="125%" src = "https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png" />
 </div>
 <div align="center" width="100%">
 <img width="25%" src = "https://user-images.githubusercontent.com/89182679/152529725-74275425-94ba-4459-89b3-598841c21f2f.png" />
