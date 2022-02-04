@@ -83,9 +83,9 @@ Visitor count<br>
 </div>
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/89182679/152529725-74275425-94ba-4459-89b3-598841c21f2f.png" />
-<img src = "https://user-images.githubusercontent.com/89182679/152529809-21204105-c4da-463f-8dca-335952c3a4c3.png" />
+<img src = "https://user-images.githubusercontent.com/89182679/152539767-d22f3307-90c3-474d-a026-47ab64c1efe4.png" />
 <img src = "https://user-images.githubusercontent.com/89182679/152530038-4ba3f7a3-8887-42a8-b9ef-125466eece36.png" />
-<img src = "https://user-images.githubusercontent.com/89182679/152530038-4ba3f7a3-8887-42a8-b9ef-125466eece36.png" />	
+<img src = "https://user-images.githubusercontent.com/89182679/152539883-5d69622d-8f62-4610-9c94-0856de08bb5b.png" />	
 </div>
 
 
