@@ -79,7 +79,8 @@ Visitor count<br>
 </div>
 
 <div align="center">
-	![奥特曼](https://user-images.githubusercontent.com/89182679/152527721-9d3c0238-1205-48dd-96a0-02fc83c05e83.png)
+	![14](https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png)
+
 </div>
 
 
