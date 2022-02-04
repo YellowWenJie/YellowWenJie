@@ -82,12 +82,12 @@ Visitor count<br>
 	<img src = "https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png" />
 </div>
 <div align="center" width="100%">
-<img width="33%" src = "https://user-images.githubusercontent.com/89182679/152529725-74275425-94ba-4459-89b3-598841c21f2f.png" />
-<img width="33%" src = "https://user-images.githubusercontent.com/89182679/152539767-d22f3307-90c3-474d-a026-47ab64c1efe4.png" />
-<img width="33%" src = "https://user-images.githubusercontent.com/89182679/152541253-8f071e5f-1d89-4515-84a0-96ba1f6aadaf.png" />
-<img width="33%" src = "https://user-images.githubusercontent.com/89182679/152541416-a892341f-e78b-461c-a608-eb2331d9b296.png" />
-<img width="33%" src = "https://user-images.githubusercontent.com/89182679/152530038-4ba3f7a3-8887-42a8-b9ef-125466eece36.png" />
-<img width="33%" src = "https://user-images.githubusercontent.com/89182679/152539883-5d69622d-8f62-4610-9c94-0856de08bb5b.png" />	
+<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152529725-74275425-94ba-4459-89b3-598841c21f2f.png" />
+<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152539767-d22f3307-90c3-474d-a026-47ab64c1efe4.png" />
+<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152541253-8f071e5f-1d89-4515-84a0-96ba1f6aadaf.png" />
+<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152541416-a892341f-e78b-461c-a608-eb2331d9b296.png" />
+<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152530038-4ba3f7a3-8887-42a8-b9ef-125466eece36.png" />
+<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152539883-5d69622d-8f62-4610-9c94-0856de08bb5b.png" />	
 </div>
 
 
