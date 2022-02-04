@@ -77,9 +77,8 @@ Hi there, I’m @YellowWenJie 👋
 Visitor count<br>
 	<img src="https://profile-counter.glitch.me/YellowWenJie/count.svg" />
 </div>
-
 <div align="center">
-	<img width="100%" src = "https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png" />
+	<img width="100%" src = "https://user-images.githubusercontent.com/89182679/152541819-0ec68ff8-b931-490b-aea4-7018b239c829.png" />
 </div>
 <div align="center" width="100%">
 <img width="25%" src = "https://user-images.githubusercontent.com/89182679/152529725-74275425-94ba-4459-89b3-598841c21f2f.png" />
