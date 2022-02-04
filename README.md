@@ -79,8 +79,7 @@ Visitor count<br>
 </div>
 
 <div align="center">
-	![14](https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png)
-
+	<img src = "https://user-images.githubusercontent.com/89182679/152527865-bf4a0733-5beb-4fbe-bfa9-fda4e824769b.png" />
 </div>
 
 
