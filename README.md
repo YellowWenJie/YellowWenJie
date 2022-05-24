@@ -69,7 +69,7 @@ Hi there, I’m @YellowWenJie 👋
 <!-- [![](https://img.shields.io/badge/-Grafana-f05032?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/) -->
 <!-- [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/) -->
 </div>
-<!-- <div align="center">
+<div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=YellowWenJie&theme=xcode" />
 </div>
 <div align="center">
@@ -77,9 +77,9 @@ Hi there, I’m @YellowWenJie 👋
 Visitor count<br>
 	<img src="https://profile-counter.glitch.me/YellowWenJie/count.svg" />
 </div>
-<br> -->
+<br>
 
-<div align="center">
+<!-- <div align="center">
 	@<a href="https://space.bilibili.com/19127189?spm_id_from=333.788.b_636f6d6d656e74.8">血鸽鸽</a>
 	<img width="100%" src = "https://user-images.githubusercontent.com/89182679/152541819-0ec68ff8-b931-490b-aea4-7018b239c829.png" />
 </div>
@@ -91,7 +91,7 @@ Visitor count<br>
 	<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152541416-a892341f-e78b-461c-a608-eb2331d9b296.png" />
 	<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152530038-4ba3f7a3-8887-42a8-b9ef-125466eece36.png" />
 	<img width="25%" src = "https://user-images.githubusercontent.com/89182679/152539883-5d69622d-8f62-4610-9c94-0856de08bb5b.png" />	
-</div>
+</div> -->
 
 
 
